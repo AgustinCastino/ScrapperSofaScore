@@ -1,0 +1,233 @@
+[
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/edinson-cavani/21521", 
+        "altura" : "184", 
+        "edad" : "37", 
+        "nombreCompleto" : "Edinson Cavani", 
+        "numeroCamiseta" : "10"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/exequiel-zeballos/1003011", 
+        "altura" : "174", 
+        "edad" : "22", 
+        "nombreCompleto" : "Exequiel Zeballos", 
+        "numeroCamiseta" : "7"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/miguel-merentiel/892275", 
+        "altura" : "176", 
+        "edad" : "28", 
+        "nombreCompleto" : "Miguel Merentiel", 
+        "numeroCamiseta" : "16"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/brian-aguirre/1084962", 
+        "altura" : "178", 
+        "edad" : "21", 
+        "nombreCompleto" : "Brian Aguirre", 
+        "numeroCamiseta" : "33"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/lucas-janson/249843", 
+        "altura" : "171", 
+        "edad" : "29", 
+        "nombreCompleto" : "Lucas Janson", 
+        "numeroCamiseta" : "11"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/vicente-taborda/1131037", 
+        "altura" : "181", 
+        "edad" : "23", 
+        "nombreCompleto" : "Vicente Taborda", 
+        "numeroCamiseta" : "39"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/milton-gimenez/1092308", 
+        "altura" : "184", 
+        "edad" : "27", 
+        "nombreCompleto" : "Milton Giménez", 
+        "numeroCamiseta" : "9"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/norberto-briasco/848619", 
+        "altura" : "179", 
+        "edad" : "28", 
+        "nombreCompleto" : "Norberto Briasco", 
+        "numeroCamiseta" : "29"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/agustin-obando/922441", 
+        "altura" : "172", 
+        "edad" : "24", 
+        "nombreCompleto" : "Agustín Obando", 
+        "numeroCamiseta" : "7"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/juan-ignacio-baiardino/1092348", 
+        "altura" : "179", 
+        "edad" : "24", 
+        "nombreCompleto" : "Juan Ignacio Baiardino", 
+        "numeroCamiseta" : "17"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/cristian-medina/1003010", 
+        "altura" : "178", 
+        "edad" : "22", 
+        "nombreCompleto" : "Cristian Medina", 
+        "numeroCamiseta" : "36"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/kevin-zenon/989863", 
+        "altura" : "177", 
+        "edad" : "23", 
+        "nombreCompleto" : "Kevin Zenón", 
+        "numeroCamiseta" : "22"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/agustin-martegani/984926", 
+        "altura" : "183", 
+        "edad" : "24", 
+        "nombreCompleto" : "Agustín Martegani", 
+        "numeroCamiseta" : "19"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/tomas-belmonte/881169", 
+        "altura" : "178", 
+        "edad" : "26", 
+        "nombreCompleto" : "Tomás Belmonte", 
+        "numeroCamiseta" : "30"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/pol-fernandez/250231", 
+        "altura" : "178", 
+        "edad" : "32", 
+        "nombreCompleto" : "Pol Fernández", 
+        "numeroCamiseta" : "8"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/saralegui-jabes/1415737", 
+        "altura" : "181", 
+        "edad" : "21", 
+        "nombreCompleto" : "Jabes Saralegui", 
+        "numeroCamiseta" : "47"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/juan-ramirez/174961", 
+        "altura" : "174", 
+        "edad" : "31", 
+        "nombreCompleto" : "Juan Ramírez", 
+        "numeroCamiseta" : "20"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/mauricio-benitez/1402224", 
+        "altura" : "185", 
+        "edad" : "20", 
+        "nombreCompleto" : "Mauricio Benitez", 
+        "numeroCamiseta" : "45"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/luis-advincula/149850", 
+        "altura" : "177", 
+        "edad" : "34", 
+        "nombreCompleto" : "Luis Advíncula", 
+        "numeroCamiseta" : "17"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/gary-medel/22975", 
+        "altura" : "171", 
+        "edad" : "37", 
+        "nombreCompleto" : "Gary Medel", 
+        "numeroCamiseta" : "5"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/marcos-rojo/46998", 
+        "altura" : "187", 
+        "edad" : "34", 
+        "nombreCompleto" : "Marcos Rojo", 
+        "numeroCamiseta" : "6"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/frank-fabra/247741", 
+        "altura" : "174", 
+        "edad" : "33", 
+        "nombreCompleto" : "Frank Fabra", 
+        "numeroCamiseta" : "18"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/nicolas-valentini/1116570", 
+        "altura" : "184", 
+        "edad" : "23", 
+        "nombreCompleto" : "Nicolás Valentini", 
+        "numeroCamiseta" : "15"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/anselmino-aaron/1500263", 
+        "altura" : "186", 
+        "edad" : "19", 
+        "nombreCompleto" : "Aaron Anselmino", 
+        "numeroCamiseta" : "38"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/lautaro-blanco/989865", 
+        "altura" : "176", 
+        "edad" : "25", 
+        "nombreCompleto" : "Lautaro Blanco", 
+        "numeroCamiseta" : "23"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/marcelo-saracchi/796444", 
+        "altura" : "172", 
+        "edad" : "26", 
+        "nombreCompleto" : "Marcelo Saracchi", 
+        "numeroCamiseta" : "3"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/nicolas-figal/579350", 
+        "altura" : "180", 
+        "edad" : "30", 
+        "nombreCompleto" : "Nicolás Figal", 
+        "numeroCamiseta" : "4"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/lautaro-di-lollo/1217939", 
+        "altura" : "189", 
+        "edad" : "19", 
+        "nombreCompleto" : "Lautaro Di Lollo", 
+        "numeroCamiseta" : "40"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/lucas-blondel/860003", 
+        "altura" : "183", 
+        "edad" : "27", 
+        "nombreCompleto" : "Lucas Blondel", 
+        "numeroCamiseta" : "42"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/cristian-lema/106384", 
+        "altura" : "190", 
+        "edad" : "33", 
+        "nombreCompleto" : "Cristian Lema", 
+        "numeroCamiseta" : "2"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/sergio-romero/25566", 
+        "altura" : "192", 
+        "edad" : "37", 
+        "nombreCompleto" : "Sergio Romero", 
+        "numeroCamiseta" : "1"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/leandro-brey/1182102", 
+        "altura" : "191", 
+        "edad" : "21", 
+        "nombreCompleto" : "Leandro Brey", 
+        "numeroCamiseta" : "12"
+    }, 
+    {
+        "URL" : "https://www.sofascore.com/es/jugador/javier-garcia/31967", 
+        "altura" : "180", 
+        "edad" : "37", 
+        "nombreCompleto" : "Javier García", 
+        "numeroCamiseta" : "13"
+    }
+]
