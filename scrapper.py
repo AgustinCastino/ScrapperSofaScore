@@ -87,7 +87,6 @@ def getInformacionJugador(html):
 # Función que me crea un JSON de los jugadores
 def crearJSON(jugadores):
   # Formato al JSON que estoy creando a partir del diccionario
-  #print(jugadores)
   jugadoresJSON = json.dumps(jugadores, ensure_ascii= False, indent = 4, separators = (", ", " : "), sort_keys = True)
 
   fileJugadores = open('jugadores.txt', 'w', encoding = "utf-8")
